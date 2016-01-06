@@ -1,0 +1,28 @@
+name: Starchild Chocolate
+favicon: null
+layout_spectrum: 0.6854515674058348
+typography_spectrum: 0.2284873421303928
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.29949459759518504
+  lightness: 0.5394613975659013
+  saturation: 0.6219872783403844
+  rhythmicContrast: 0.5682966061867774
+purpose: []
